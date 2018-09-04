@@ -5,4 +5,5 @@ Here you'll find different guides on how to automate different tasks, setup secu
 ## Guides
 
 - [Secure Ubuntu Server Configuration](SecureUbuntuServer.md)
+- [Configure a Secure Raspiberry Pi](securer-rpi-setup.md)
 - [Mount a Network Share](MountNetworkShare.md)
